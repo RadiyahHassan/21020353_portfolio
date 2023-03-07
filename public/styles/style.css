@@ -1,0 +1,323 @@
+.horizontal-center{
+    margin: 0;
+    position: relative;
+    
+}
+
+
+
+/* Wasfan */
+
+.navbar{
+    padding-top: 1.5rem;
+    padding-left: 4rem;
+    padding-right: 4rem;
+    background: transparent;
+}
+
+.navbar-item{
+    margin-left: 0.75rem;
+}
+
+.logo-1{
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 2.75rem;
+    letter-spacing: -0.005em;
+    color: #FBA820;
+}
+
+.logo-2{
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 2.75rem;
+    letter-spacing: -0.005em;
+    color: #ffffff;
+}
+
+.home-left{
+    margin-top: -80px;
+    padding-top: 80px;
+    background-color: #f16565;
+    height: 750px;
+}
+
+.back{
+    margin-top: 5rem;
+    margin-left: 8rem;
+    width: 350px;
+    height: 485px;
+    background-color: rgba(244, 209, 181, 1);
+    border-top-right-radius: 200px;
+    border-top-left-radius: 200px;
+}
+
+.prof-img{
+    width: 350px;
+    height: auto;
+    vertical-align: bottom;
+}
+.home-right{
+    padding-left: 5rem;
+    height: 750px;
+}
+
+.text{
+    margin-top: 10rem;
+}
+
+.home-text-1{
+    display: inline-block;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 48px;
+    padding-bottom: 0.75rem;
+}
+
+.home-text-2{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 48px;
+    padding-bottom: 0.25rem;
+}
+
+.home-text-3{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+}
+
+.download-cv-button{
+    background-color: #f16565;
+    border: none;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    padding: 1rem 2rem;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    color: #F9F2F2;
+    cursor: pointer;
+}
+
+.icons{
+    margin-top: 8rem;
+    margin-left: 28rem;
+}
+
+.icons i{
+    margin-left: 2rem;
+    color: #4A4A4A;
+}
+
+/* ABOUT */
+
+.about{
+    position: relative;
+}
+
+.heading-element{
+    display: inline-block;
+    background:#f16565;
+    border-radius:2rem;
+    padding: 0.5rem 4rem;
+    margin-left: 7rem;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 1.5rem;
+
+    color: #FEF9F9;
+}
+
+.about-heading{
+    margin-top: 1rem;
+    margin-left: 8rem;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 4rem;
+    line-height: 97px;
+
+    color: #000000;
+}
+
+.rectangle{
+    height: 3px;
+    width: 100px;
+    background-color: #f16565;
+    margin-left: 7rem;
+    margin-top: -1rem;
+    margin-bottom: 1rem;
+ }
+
+.about-left{
+    background:#f16565;
+    margin-top: 2rem; 
+    height: 525px;
+ }
+
+ .about-image{
+    margin-top: 60px;
+    height: 400px;
+    width: 400px;
+ }
+
+ .about-title{
+    margin-top: 4rem;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    color: #000000;
+ }
+
+ .para{
+    margin-top: 3rem;
+    font-family: 'Inder';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    color: #000000;
+    width: 800px;
+ }
+
+.rectangles{
+    position: absolute;
+    right:0;
+    top:2rem;
+}
+
+ .rectangle-1, .rectangle-2, .rectangle-3{
+    height: 24px;
+    background-color: #f16565;
+    margin-top: 10px;
+ }
+
+.rectangle-1{
+    width: 100px;
+    margin-left: 200px;
+}
+
+.rectangle-2{
+    width: 200px;
+    margin-left: 100px;
+}
+
+.rectangle-3{
+    width: 300px;
+}
+ 
+/* EDUCATION */
+
+.education{
+    position: relative;
+    margin-top: 7rem;
+}
+
+.edu-vect-img{
+    height: 300px;
+    margin-left: 22rem;
+}
+
+.education-left , .education-right{
+    margin-top: 4rem;
+}
+
+.edu-title{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    color: #000000;
+    margin-bottom: 1rem;
+}
+
+.desc{
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    color: #000000;
+    width: 600px;
+}
+
+
+/* CONTACT */
+
+.contact{
+    position: relative;
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+}
+
+.form{
+    margin-top: 5rem;
+    margin-left: 20rem;
+    width: 900px;
+    padding: 1.5rem 3rem;
+    margin-bottom: 5rem;
+
+    border-style: solid;
+    border-width: 2px;
+    border-color: rgba(198, 198, 198, 1);
+}
+
+.input{
+    background-color: rgba(245, 245, 245, 1);
+}
+
+.textarea{
+    background-color: rgba(245, 245, 245, 1);
+}
+
+.input::placeholder{
+    color: rgba(176, 176, 176, 1);
+}
+
+.textarea::placeholder{
+    color: rgba(176, 176, 176, 1);
+}
+
+.line-1{
+    display: inline-block;
+    width: 395px;
+}
+
+.send-button{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 1.1rem;
+    color: #FEF9F9;
+    background-color: #EE9493;
+    border: none;
+    padding: 0.5rem 2.5rem;
+    border-radius: 1.25rem;
+}
+
+.contact-grid{
+    display : grid ;
+    grid-template-columns : 1fr 1fr 1fr;
+    justify-content : center ;
+    text-align: center;
+    margin-right: 6rem;
+}
+
+.contact-card{
+    border-style: solid;
+    border-width: 2px;
+    margin-left:10rem;
+    padding: 3rem 0;
+}
